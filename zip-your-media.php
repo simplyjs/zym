@@ -5,7 +5,7 @@
  * Description: Download the files from the Media Library in ZIP format.
  * Author: simplyjs
  * Author URI: http://simplyjs.fr/
- * Version: 0.0.1
+ * Version: 1.0
  * License: GPLv2 or later
  * Text Domain: zym
  * Domain Path: /languages/
