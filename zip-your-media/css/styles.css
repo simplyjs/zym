@@ -1,0 +1,6 @@
+.existing_files.active{
+	display:block;
+}
+.existing_files.inactive{
+	display:none;
+}
